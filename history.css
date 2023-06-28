@@ -1,0 +1,42 @@
+.textanime {
+ background-color: rgb(255, 255, 255);
+padding: 30px;
+padding-left: 150px;
+padding-right: 150px;
+}
+.img1 {
+    text-align: center;
+  justify-content: center;
+  width: 50%; 
+}
+.pae{
+    max-width: 100%; 
+    width: 500px;  
+    }
+.par {
+
+ text-align: justify
+}
+.par1 {
+padding: 30px;
+    text-align: justify
+}
+.aligncenter {
+    padding-top: 27px; 
+    padding-bottom: 20px;
+
+}
+.par2 {
+    text-align: justify
+}
+.par3 {
+    text-align: justify
+}
+.par4 {
+    text-align: justify
+}
+@media only screen and (max-width: 480px) { 
+    img { 
+    width: 100%; 
+    } 
+    }

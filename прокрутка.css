@@ -1,0 +1,53 @@
+html {
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613310934_60-p-sinii-anime-fon-estetika-87.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+.colora {
+    color: black;
+}
+
+.row {
+    padding-right: 20px;
+    padding-block: 20px;
+}
+
+.zag {
+    display: flex;
+    height: 45px;
+    width: 100%;
+    padding-left: 35px;
+    backdrop-filter: blur(20px);
+
+    margin-left: 30px;
+    padding-right: 200px;
+   
+ position: relative;
+ background-position: center center;
+ align-items: center;
+ justify-content: center;
+ color: rgb(227, 227, 227);
+
+    border-radius: 25px;
+
+ ;
+    outline: none;
+    margin-top: 30px;
+
+    transition: .3s ease-in-out;
+}
+
+.btn.btn-primary {
+    border: none;
+    background-color: rgb(231, 111, 177);
+    border-radius: 25px;
+}
+
+.btn.btn-primary:hover {
+    background-color:  rgb(222, 160, 194);
+}
